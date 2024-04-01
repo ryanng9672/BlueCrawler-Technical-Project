@@ -1,7 +1,8 @@
-# Interim-Project-
+# Interim-Project-BlueCrawler
+
 **Web Scraping** - for Wellcome and Panknshop
 
-**Database** - connection for postgres SQL
+**Database** - connection for postgresSQL(ngrok)
 
 **About Web crawler,data cleaning ,insert data , data visualisation**
 
