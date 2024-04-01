@@ -6,7 +6,7 @@
 
 **About Web crawler,data cleaning ,insert data , data visualisation**
 
-**Table of Content**
+# Table of Content
 * [SET_UP](#SET_UP)
 * [Features](#Features)
 
@@ -15,5 +15,10 @@ To install the required packages, run the following command:
 
 ```shell
 pip install -r requirements.txt
+```
+# Features
+
+
+
 
 
