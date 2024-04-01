@@ -10,6 +10,7 @@
 * [SET_UP](#SET_UP)
 * [Features](#Features)
 * [Example](#Example)
+* [Technologies](#Technologies)
 
 # SET_UP
 To install the required packages, run the following command:
@@ -45,6 +46,15 @@ ax = brand_counts.plot(kind='bar', figsize=(10, 6), color=colors)
 plt.xlabel("Market ID")
 plt.ylabel("Number of Unique Brands")
 ```
+
+# Technologies
+* pandas
+* selenium
+* re
+* matplotlib
+* seaborn
+* more in requirements.txt<<<<
+
 
 
 
