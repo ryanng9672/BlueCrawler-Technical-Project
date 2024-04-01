@@ -56,11 +56,11 @@ plt.ylabel("Number of Unique Brands")
 * seaborn
 * more in requirements.txt<<<<
 
-  # WebsiteRelated
-  * [https://www.wellcome.com.hk/zh-hant/category/100001/1.html]
-  * [https://www.pns.hk/zh-hk/search?text=%E9%85%92&useDefaultSearch=false&brandRedirect=true&q=%E9%85%92:mostRelevant:categoryNameLevel2:04012000]
+# WebsiteRelated
+* [https://www.wellcome.com.hk/zh-hant/category/100001/1.html]
+* [https://www.pns.hk/zh-hk/search?text=%E9%85%92&useDefaultSearch=false&brandRedirect=true&q=%E9%85%92:mostRelevant:categoryNameLevel2:04012000]
  
-  * PPT For US[https://tome.app/mid-term-project-team-blue/interim-project-presentation-team-blue-v2-clsmn360c00oyms61kky1tdg9]
+* PPT For US[https://tome.app/mid-term-project-team-blue/interim-project-presentation-team-blue-v2-clsmn360c00oyms61kky1tdg9]
 
 
 
