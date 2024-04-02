@@ -47,7 +47,10 @@ ax = brand_counts.plot(kind='bar', figsize=(10, 6), color=colors)
 plt.xlabel("Market ID")
 plt.ylabel("Number of Unique Brands")
 ```
-[**>>>>more example in images<<<<<**](https://github.com/ryanng9672/Interim-Project-/blob/main/images/ngrok.png)
+**ngrok**
+
+<img width="859" alt="ngrok" src="https://github.com/ryanng9672/BlueCrawler-Technical-Project/assets/158177590/a4e155e6-164b-489d-ac57-594492233743">
+
 
 # Technologies
 * pandas
