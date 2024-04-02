@@ -59,6 +59,19 @@ plt.ylabel("Number of Unique Brands")
 <img width="859" alt="ngrok" src="https://github.com/ryanng9672/BlueCrawler-Technical-Project/assets/158177590/a4e155e6-164b-489d-ac57-594492233743">
 
 
+**Python call SQL Get data**
+
+<img width="667" alt="top20" src="https://github.com/ryanng9672/BlueCrawler-Technical-Project/assets/158177590/a95cbbd4-9f56-4932-a2d7-74a8caf0170a">
+
+
+
+**seabron**
+
+![seabron](https://github.com/ryanng9672/BlueCrawler-Technical-Project/assets/158177590/4dcff042-6e1e-481c-b10d-d21219606e77)
+
+
+
+
 
 # Technologies
 * pandas
