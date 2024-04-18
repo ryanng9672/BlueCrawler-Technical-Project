@@ -153,8 +153,10 @@ top_10_wellcome = data_wellcome.nlargest(10, 'current_price')
 
 
 
-# Time 
-* For team time tabel 
+# Time management tool - Trello Kanban
+* For team time management
+  ![螢幕擷取畫面 2024-04-18 092930](https://github.com/ryanng9672/BlueCrawler-Technical-Project/assets/158177590/86aefa20-d599-4b53-b410-ae07cf26f8e5)
+
 
 
 # Technologies
