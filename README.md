@@ -153,7 +153,8 @@ top_10_wellcome = data_wellcome.nlargest(10, 'current_price')
 
 
 
-#Time 
+# Time 
+* For team time tabel 
 
 
 # Technologies
